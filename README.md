@@ -4,8 +4,6 @@ Hi 👋 My name is Sávio Rian
 Front End Developer
 -------------------
 
-Meu nome é Sávio Rian, sou brasileiro e moro em Fortaleza/CE. Atualmente estou estudando React JS. É por isso que não poupo esforços para alcançar meu objetivo. 💪💻.
-
 * 🌍  I'm based in Fortaleza/CE
 * 🖥️  See my portfolio at [saviodev](http://savioros.github.io)
 * ✉️  You can contact me at [saviorianos@gmail.com](mailto:saviorianos@gmail.com)
