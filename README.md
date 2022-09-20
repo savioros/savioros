@@ -8,7 +8,7 @@ Front End Developer
 * 🖥️  See my portfolio at [saviodev](http://saviorian.netlify.app/)
 * ✉️  You can contact me at [saviorianos@gmail.com](mailto:saviorianos@gmail.com)
 * 🧠  I'm learning NextJS and React Native
-* ⚡  Hard Skills: ReactJS, Axios, Styled Components, jQuery, Git
+* ⚡  Hard Skills: ReactJS, Axios, Styled Components, jQuery, Git, SQL Server
 
 
 ### Socials
