@@ -7,8 +7,8 @@ Front End Developer
 * 🌍  I'm based in Fortaleza/CE
 * 🖥️  See my portfolio at [saviodev](http://saviorian.netlify.app/)
 * ✉️  You can contact me at [saviorianos@gmail.com](mailto:saviorianos@gmail.com)
-* 🧠  I'm learning TypeScript and Redux
-* ⚡  Hard Skills: ReactJS, Axios, Styled Components, jQuery, Git, SQL Server
+* 🧠  I'm learning Redux
+* ⚡  Hard Skills: ReactJS, TypeScript, Axios, Styled Components, jQuery, Git, SQL Server
 
 
 ### Socials
