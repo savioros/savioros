@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sávio Rian
 ==================================================================================================================================
 
-Front End Developer
+.NET Full Stack Developer
 -------------------
 
 * 🌍  I'm based in Fortaleza/CE
 * 🖥️  See my portfolio at [saviodev](http://saviorian.netlify.app/)
 * ✉️  You can contact me at [saviorianos@gmail.com](mailto:saviorianos@gmail.com)
 * 🧠  I'm learning Redux
-* ⚡  Hard Skills: ReactJS, TypeScript, Axios, Styled Components, jQuery, Git, SQL Server
+* ⚡  Hard Skills: .NET C#, .Net Core, .Net Framework, ReactJS, TypeScript, Axios, Styled Components, jQuery, Git, SQL Server
 
 
 ### Socials
