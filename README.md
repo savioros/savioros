@@ -7,7 +7,7 @@ Full Stack Developer
 * 🌍  I'm based in Fortaleza/CE
 * 🖥️  See my portfolio at [portfolio.saviorian.com](https://portfolio.saviorian.com)
 * ✉️  You can contact me at [devsaviorian@gmail.com](mailto:devsaviorian@gmail.com)
-* ⚡  Hard Skills: C#, .NET, .Net Core, .Net Framework, Entity Framework, SQL Server, ReactJS, JavaScript, TypeScript, jQuery, Git
+* ⚡  Hard Skills: PHP, Laravel, Codeigniter, JavaScript, jQuery, SQL Server, Docker, SOLID e Git
 
 
 ### Socials
